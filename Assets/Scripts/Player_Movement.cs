@@ -1,7 +1,7 @@
 
 using UnityEngine;
 
-public class qwer : MonoBehaviour
+public class Player_Movemonet : MonoBehaviour
 {
     [Header("이동 설정")]
     public float moveSpeed = 5f;
